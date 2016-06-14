@@ -1,0 +1,17 @@
+# ignore files.
+
+.DS_Store
+*.pyc
+*.suo
+*.user
+*.exe
+ignore
+*~
+.settings/
+move_
+
+# idea
+.idea/*
+*.iml
+*.ipr
+*.iws
